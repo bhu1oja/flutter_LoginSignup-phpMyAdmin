@@ -1,16 +1,21 @@
-# login_signup
+# flutter_loginSignup-phpMyAdmin
 
-A new Flutter project.
+Flutter login and Signup example using phpMyAdmin
 
-## Getting Started
+## Source Code Includes:
 
-This project is a starting point for a Flutter application.
+  * [x] API(written in php)
+  * [x] Database File
+  * [x] Screenshots
+  * [x] Fully working login and Signup code in dart
+  * [x] Toast
+  * [x] Materiall design of TextField
+  
 
-A few resources to get you started if this is your first Flutter project:
+<img src="screenshots/s1.jpg" height="300em" /> <img src="screenshots/s2.jpg" height="300em" /> <img src="screenshots/s3.jpg" height="300em" /> <img src="screenshots/s4.jpg" height="300em" /> <img src="screenshots/s5.jpg" height="300em" /> <img src="screenshots/s6.jpg" height="300em" /> <img src="screenshots/s7.jpg" height="300em" /> 
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Created & Maintained By
+
+[Bhuwan Ojha](https://github.com/bhu1oja)  ([Youtube](https://www.youtube.com/channel/UCa-XTJKKDSVkCaoZAUx3g4g))
+([Facebook community](https://www.facebook.com/groups/380421285857980/?source_id=377578722996429))
